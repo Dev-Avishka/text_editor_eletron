@@ -1,0 +1,19 @@
+{
+  "name": "dabrowser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "run.bat"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.0.0"
+  },
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "fs": "^0.0.1-security"
+  }
+}

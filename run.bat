@@ -1,0 +1,1 @@
+C:\Users\dabdi\OneDrive\Desktop\code_editor\node_modules\.bin\electron.cmd C:\Users\dabdi\OneDrive\Desktop\code_editor\index.js
